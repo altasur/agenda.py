@@ -21,6 +21,7 @@ Para correr la aplicación en un entorno local:
 3. Abra una terminal en la carpeta donde guardó el archivo.
 4. Ejecute el siguiente comando (use comillas debido al espacio en el nombre):
 
+bash:
 python "Agenda M2.py"
 
 ## 4. Guía de Uso y Navegación
