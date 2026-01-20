@@ -54,7 +54,7 @@ class Agenda:
 def mostrar_menu():
     mi_agenda = Agenda()
     while True:
-        print("\n--- GESTIÓN DE CONTACTOS V2.0 ---")
+        print("\n--- GESTIÓN DE CONTACTOS ---")
         print("1. Registrar  2. Buscar  3. Editar  4. Eliminar  5. Listar  6. Salir")
         opcion = input("Seleccione una opción: ").strip()
 
